@@ -1,0 +1,5 @@
+{
+    "smile_intensity": 0.5,
+    "input_folder": "input_images",
+    "output_folder": "output_images"
+}
