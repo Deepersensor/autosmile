@@ -27,6 +27,7 @@ pip install -r requirements.txt
 
 ## Usage 🛠️
 
+
 ### Command Line Interface
 
 Add or enhance smiles in your images with the CLI:
